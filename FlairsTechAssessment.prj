@@ -3,7 +3,7 @@
    <description></description>
    <name>FlairsTechAssessment</name>
    <tag></tag>
-   <UUID>ee4c664b-47d7-4281-954f-18363477409f</UUID>
+   <UUID>6ed89134-77db-409b-8d6f-59bfa3bbb851</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>MOBILE</type>
 </Project>
